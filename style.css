@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+    background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+}
+
+h1 {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+img {
+    width: 100px;
+    border-radius: 50px;
+}
+
+p {
+    font-size: 18px;
+    padding: 20px
+}
+
+.links {
+    float: left;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.links:hover{
+    color: yellow;
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 300;
+    font-family: 'Redressed', cursive;
+    line-height: 1.2;
+}
+    
+    
+    
+    
+    
+    
